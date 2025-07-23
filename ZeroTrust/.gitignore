@@ -37,3 +37,6 @@ src/main/resources/application.yml
 src/main/resources/logback.xml
 src/main/resources/log4j2.xml
 src/main/resources/log4j2-spring.xml
+
+application.properties
+src/main/resources/certs
